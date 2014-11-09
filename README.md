@@ -1,6 +1,8 @@
 quotes
 ======
 
+[![Build Status](https://travis-ci.org/mewmew/quotes.svg?branch=master)](https://travis-ci.org/mewmew/quotes)
+
 Contained within this repository is a collection of my favorite quotes by
 friends & family, strangers, authors, and remarkable people. I cherish them
 deeply.

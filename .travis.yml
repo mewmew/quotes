@@ -1,0 +1,10 @@
+before_install:
+  - echo yes | sudo add-apt-repository ppa:texlive-backports/ppa
+  - sudo apt-get -qq update
+
+install:
+  - sudo apt-get install -qq texlive texlive-latex-base texinfo
+
+script:
+  - cd "A Message for all Humanity"
+  - texi2pdf message.tex
