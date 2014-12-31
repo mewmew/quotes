@@ -8,6 +8,7 @@ deeply.
 
 * [A Message for all Humanity](https://raw.github.com/mewmew/quotes/master/A%20Message%20for%20all%20Humanity/message.pdf)
 * [And then there's Haskell...](haskell.md)
+* [Is hell endothermic or exothermic?](hell.md)
 
 ## Assorted Collection of Quotes
 
