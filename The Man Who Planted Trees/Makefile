@@ -1,6 +1,6 @@
-all: message.pdf
+all: interlude.pdf
 
-message.pdf: message.tex
+interlude.pdf: interlude.tex
 	texi2pdf -q -c $<
 
 clean:

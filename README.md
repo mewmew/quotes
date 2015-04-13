@@ -8,6 +8,7 @@ deeply.
 
 * [A Message for all Humanity](https://raw.githubusercontent.com/mewmew/quotes/master/A%20Message%20for%20all%20Humanity/message.pdf)
 * [And then there's Haskell...](haskell.md)
+* [Interlude to The Man Who Planted Trees](https://raw.githubusercontent.com/mewmew/quotes/master/The%20Man%20Who%20Planted%20Trees/interlude.pdf)
 * [Is hell endothermic or exothermic?](hell.md)
 
 ## Assorted Collection of Quotes
