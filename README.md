@@ -7,11 +7,12 @@ friends & family, strangers, authors, and remarkable people. I cherish them
 deeply.
 
 * [A Message for all Humanity](https://raw.githubusercontent.com/mewmew/quotes/master/A%20Message%20for%20all%20Humanity/message.pdf)
-* [And then there's Haskell...](haskell.md)
 * [Interlude to The Man Who Planted Trees](The Man Who Planted Trees/interlude.md)
-* [Is hell endothermic or exothermic?](hell.md)
 
 ## Assorted Collection of Quotes
+
+* [And then there's Haskell...](haskell.md)
+* [Is hell endothermic or exothermic?](hell.md)
 
 * Orientation
 
