@@ -14,6 +14,12 @@ deeply.
 * [And then there's Haskell...](haskell.md)
 * [Is hell endothermic or exothermic?](hell.md)
 
+* You
+
+> Find out who you are, and do it on purpose.
+>
+> -- Dolly Parton
+
 * Orientation
 
 > If you don't care where you are, then you ain't lost.
