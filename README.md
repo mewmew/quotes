@@ -14,17 +14,17 @@ deeply.
 * [And then there's Haskell...](haskell.md)
 * [Is hell endothermic or exothermic?](hell.md)
 
-* You
+### You
 
 > Find out who you are, and do it on purpose.
 >
 > -- Dolly Parton
 
-* Orientation
+### Orientation
 
 > If you don't care where you are, then you ain't lost.
 
-* Minimalism
+### Minimalism
 
 > A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.
 >
@@ -34,7 +34,7 @@ deeply.
 >
 > -- Albert Einstein
 
-* Science
+### Science
 
 > I am one of those who think like Nobel, that humanity will draw more good than evil from new discoveries.
 >
@@ -44,13 +44,13 @@ deeply.
 >
 > -- Marie Curie
 
-* Insanity
+### Insanity
 
 > I don't suffer from insanity, I enjoy every minute of it.
 >
 > -- Edgar Allan Poe
 
-* Things
+### Things
 
 > The best things in life aren't things.
 >
@@ -58,25 +58,25 @@ deeply.
 
 > Flest saker när man dör vinner.
 
-* Mistakes
+### Mistakes
 
 > Some mistakes are too much fun to only make once.
 
-* Time
+### Time
 
 > You cannot kill time without injuring eternity.
 
-* Computers
+### Computers
 
 > Why make things difficult, when it is possible to make them cryptic and totally illogical, with just a little bit more effort?
 
-* Sad
+### Sad
 
 > There is no sadder sight than a young pessimist.
 >
 > -- Mark Twain
 
-* Freedom
+### Freedom
 
 > Freedom is always the freedom of dissenters.
 >
@@ -86,6 +86,6 @@ deeply.
 >
 > -- Rosa Luxemburg
 
-* Confuse your enemy
+### Confuse your enemy
 
 > Admit nothing, deny everything and make counter-accusations.
