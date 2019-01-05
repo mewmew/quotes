@@ -1,5 +1,7 @@
 # Quotes
 
+*Koriander har de ju till och med på Konsum så helt ute och cyklar är vi ju inte.*
+
 [![Build Status](https://travis-ci.org/mewmew/quotes.svg?branch=master)](https://travis-ci.org/mewmew/quotes)
 
 Contained within this repository is a collection of my favorite quotes by
